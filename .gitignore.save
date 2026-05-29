@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+results/
+saved_models/
+.DS_Store
+git add .
+
